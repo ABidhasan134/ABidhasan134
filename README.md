@@ -1,7 +1,10 @@
 <img src="https://i.ibb.co/Np39q3B/Default-A-futuristic-web-developer-banner-for-Git-Hub-crafted-w-1.jpg" alt="Default-A-futuristic-web-developer-banner-for-Git-Hub-crafted-w-1" border="0">
 <h1 align="center">Hi 👋, I'm Raisul Islam (ABid)</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3>About me:</h3>
+<p>I am a frontend web developer with expertise in HTML, CSS, and JavaScript. I build responsive and interactive user interfaces using React and style them efficiently with Tailwind CSS. I integrate backend services using Firebase and Express, and manage data with MongoDB. I use Git for version control and collaborate on projects via GitHub. For making HTTP requests, I utilize Axios, and I am familiar with TanStack for advanced state management and data fetching.
 
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidhasan134&label=Profile%20views&color=0e75b6&style=flat" alt="abidhasan134" /> </p>
 
 - 🌱 I’m currently learning **Framworks and c++**
